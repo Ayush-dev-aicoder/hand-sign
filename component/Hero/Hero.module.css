@@ -1,0 +1,39 @@
+.glass1 {
+  width: 600px;
+  height: 400px;
+  left: 51px;
+  top: 230px;
+  margin-left: 90px;
+  margin-top: 80px;
+  background: linear-gradient(
+    115.15deg,
+    rgba(255, 255, 255, 0.4) 16.86%,
+    rgba(255, 255, 255, 0.1) 65.97%
+  );
+  border-radius: 41px;
+}
+.glass1content {
+  color: white;
+  padding: 20px 20px;
+  font-size: 2.6rem;
+}
+.glass1content1 {
+  color: white;
+  margin-top: -10px;
+  padding-left: 20px;
+  padding-right: 80px;
+  font-size: 1.7rem;
+}
+.glass1content2 {
+  padding-top: 39px;
+  padding-left: 25px;
+  padding-right: 70px;
+  font-size: 1.4rem;
+
+  color: white;
+}
+.icon {
+  position: absolute;
+  top: 45px;
+  left: 400px;
+}
